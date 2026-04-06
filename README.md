@@ -160,7 +160,7 @@ MIT License
 
 ## 👨‍🏫 Acknowledgments
 
-Named after **Tommy**, a professor who inspired this tool by needing a faster way to build question banks.
+Named after **Tom**, my FIL/professor who inspired this tool by needing a faster way to build question banks.
 
 ---
 
