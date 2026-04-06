@@ -59,7 +59,7 @@ cd tommys-tool
 2. Run the application:
 
 ```
-python main.py
+python ./converterv2.py
 ```
 
 ---
